@@ -1,0 +1,9 @@
+{
+	"name": "adf-yadav-dev-eastusnew-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3cdcf7e7-6fe3-4ba8-97ad-12e55b9c002b",
+		"tenantId": "ebcd2d7a-444b-4afa-9118-931a0d219dfa"
+	}
+}
